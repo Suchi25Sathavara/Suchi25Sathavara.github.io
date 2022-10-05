@@ -1,2 +1,2 @@
 # Suchi25Sathavara.github.io
-Mini Project about Movie Recommendation System.
+About my certificaation on data science as well as projects on its various sections.
